@@ -136,7 +136,7 @@ nav h1 a {
   list-style: outside none none;
   margin: 0;
   text-align: center;
-  padding: 30px 15px 60px;
+  padding: 30px 15px 60px 15px;
   display:flex; 
   flex-direction: column;
   align-items: center;
